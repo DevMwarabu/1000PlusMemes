@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81820314702",
+    "firebase_url": "https://plusmemes-20990.firebaseio.com",
+    "project_id": "plusmemes-20990",
+    "storage_bucket": "plusmemes-20990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81820314702:android:97b3f3dbbfae0544",
+        "android_client_info": {
+          "package_name": "com.pluslatestmemes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81820314702-8l1s5rc78i5dnshuacgt5gq7474no26j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pluslatestmemes",
+            "certificate_hash": "becac8b2753bcf767e5f4f3618eb44118a6e15e0"
+          }
+        },
+        {
+          "client_id": "81820314702-ju81g71l378mbk7449g01s98a5fd2bt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0yoXLwdWXZoRitYoQqK1kECYUn1Bh0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81820314702-ju81g71l378mbk7449g01s98a5fd2bt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

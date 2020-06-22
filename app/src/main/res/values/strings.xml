@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">+1000 Latest Memes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="appid">ca-app-pub-9539261264498310~9592490851</string>
+    <string name="banner">ca-app-pub-9539261264498310/8279409181</string>
+    <string name="interstitial">ca-app-pub-9539261264498310/3144779805</string>
+</resources>
